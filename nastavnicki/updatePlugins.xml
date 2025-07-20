@@ -1,6 +1,6 @@
 <plugins>
 <plugin id="com.zarko.nastavnicki"
-        url="https://github.com/zarko-ned/zarko.github.io/tree/main/nastavnicki/Nastavnički Plugin - RAF-2.0.2.zip"
+        url="https://github.com/zarko-ned/zarko.github.io/tree/main/nastavnicki/nastavnicki-plugin-2.0.2.zip"
         version="1.1">
     <name>Nastavnički Plugin - RAF</name>
     <description>Plugin za nastavnike u IntelliJ-u</description>
