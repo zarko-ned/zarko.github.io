@@ -1,7 +1,7 @@
 <plugins>
   <plugin id="com.raf.nastavnicki"
           url="https://github.com/zarko-ned/zarko.github.io/raw/main/nastavnicki/nastavnicki-plugin-2.0.4.zip"
-          version="2.0.4"> 
+          version="2.0.4">
     <name>Nastavnički Plugin - RAF</name>
     <description>Plugin za nastavnike u IntelliJ-u</description>
     <idea-version since-build="241.0" until-build="999.*"/>
@@ -9,7 +9,7 @@
   </plugin>
   <plugin id="com.raf.nastavnicki"
           url="https://github.com/zarko-ned/zarko.github.io/raw/main/nastavnicki/nastavnicki-plugin-2.0.5.zip"
-          version="2.0.5"> 
+          version="2.0.5">
     <name>Nastavnički Plugin - RAF</name>
     <description>Plugin za nastavnike u IntelliJ-u</description>
     <idea-version since-build="241.0" until-build="999.*"/>
@@ -17,56 +17,55 @@
   </plugin>
   <plugin id="com.raf.nastavnicki"
           url="https://github.com/zarko-ned/zarko.github.io/raw/main/nastavnicki/nastavnicki-plugin-2.1.0.zip"
-          version="2.1.0"> 
+          version="2.1.0">
     <name>Nastavnički Plugin - RAF</name>
     <description>Plugin za nastavnike u IntelliJ-u</description>
     <idea-version since-build="241.0" until-build="999.*"/>
     <vendor email="zarkoned@outlook.com" url="https://raf.edu.rs">Žarko Nedeljković</vendor>
   </plugin>
-    <plugin id="com.raf.nastavnicki"
+  <plugin id="com.raf.nastavnicki"
           url="https://github.com/zarko-ned/zarko.github.io/raw/main/nastavnicki/nastavnicki-plugin-2.1.1.zip"
-          version="2.1.1"> 
+          version="2.1.1">
     <name>Nastavnički Plugin - RAF</name>
     <description>Plugin za nastavnike u IntelliJ-u</description>
     <idea-version since-build="241.0" until-build="999.*"/>
     <vendor email="zarkoned@outlook.com" url="https://raf.edu.rs">Žarko Nedeljković</vendor>
   </plugin>
-    <plugin id="com.raf.nastavnicki"
+  <plugin id="com.raf.nastavnicki"
           url="https://github.com/zarko-ned/zarko.github.io/raw/main/nastavnicki/nastavnicki-plugin-2.1.2.zip"
-          version="2.1.2"> 
+          version="2.1.2">
     <name>Nastavnički Plugin - RAF</name>
     <description>Plugin za nastavnike u IntelliJ-u</description>
     <idea-version since-build="241.0" until-build="999.*"/>
     <vendor email="zarkoned@outlook.com" url="https://raf.edu.rs">Žarko Nedeljković</vendor>
   </plugin>
-    <plugin id="com.raf.nastavnicki"
+  <plugin id="com.raf.nastavnicki"
           url="https://github.com/zarko-ned/zarko.github.io/raw/main/nastavnicki/nastavnicki-plugin-2.1.3.zip"
-          version="2.1.3"> 
+          version="2.1.3">
     <name>Nastavnički Plugin - RAF</name>
     <description>Plugin za nastavnike u IntelliJ-u</description>
     <idea-version since-build="241.0" until-build="999.*"/>
     <vendor email="zarkoned@outlook.com" url="https://raf.edu.rs">Žarko Nedeljković</vendor>
   </plugin>
-    <plugin id="com.raf.nastavnicki"
+  <plugin id="com.raf.nastavnicki"
           url="https://github.com/zarko-ned/zarko.github.io/raw/main/nastavnicki/nastavnicki-plugin-2.1.4.zip"
-          version="2.1.4"> 
+          version="2.1.4">
     <name>Nastavnički Plugin - RAF</name>
     <description>Plugin za nastavnike u IntelliJ-u</description>
     <idea-version since-build="241.0" until-build="999.*"/>
     <vendor email="zarkoned@outlook.com" url="https://raf.edu.rs">Žarko Nedeljković</vendor>
   </plugin>
-      <plugin id="com.raf.nastavnicki"
+  <plugin id="com.raf.nastavnicki"
           url="https://github.com/zarko-ned/zarko.github.io/raw/main/nastavnicki/nastavnicki-plugin-2.1.5.zip"
-          version="2.1.5"> 
+          version="2.1.5">
     <name>Nastavnički Plugin - RAF</name>
     <description>Plugin za nastavnike u IntelliJ-u</description>
     <idea-version since-build="241.0" until-build="999.*"/>
     <vendor email="zarkoned@outlook.com" url="https://raf.edu.rs">Žarko Nedeljković</vendor>
   </plugin>
-   </plugin>
-      <plugin id="com.raf.nastavnicki"
+  <plugin id="com.raf.nastavnicki"
           url="https://github.com/zarko-ned/zarko.github.io/raw/main/nastavnicki/nastavnicki-plugin-2.1.6.zip"
-          version="2.1.6"> 
+          version="2.1.6">
     <name>Nastavnički Plugin - RAF</name>
     <description>Plugin za nastavnike u IntelliJ-u</description>
     <idea-version since-build="241.0" until-build="999.*"/>
