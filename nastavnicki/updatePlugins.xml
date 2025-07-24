@@ -31,4 +31,22 @@
     <idea-version since-build="241.0" until-build="999.*"/>
     <vendor email="zarkoned@outlook.com" url="https://raf.edu.rs">Žarko Nedeljković</vendor>
   </plugin>
+   </plugin>
+    <plugin id="com.raf.nastavnicki"
+          url="https://github.com/zarko-ned/zarko.github.io/raw/main/nastavnicki/nastavnicki-plugin-2.1.2.zip"
+          version="2.1.2"> 
+    <name>Nastavnički Plugin - RAF</name>
+    <description>Plugin za nastavnike u IntelliJ-u</description>
+    <idea-version since-build="241.0" until-build="999.*"/>
+    <vendor email="zarkoned@outlook.com" url="https://raf.edu.rs">Žarko Nedeljković</vendor>
+  </plugin>
+   </plugin>
+    <plugin id="com.raf.nastavnicki"
+          url="https://github.com/zarko-ned/zarko.github.io/raw/main/nastavnicki/nastavnicki-plugin-2.1.3.zip"
+          version="2.1.3"> 
+    <name>Nastavnički Plugin - RAF</name>
+    <description>Plugin za nastavnike u IntelliJ-u</description>
+    <idea-version since-build="241.0" until-build="999.*"/>
+    <vendor email="zarkoned@outlook.com" url="https://raf.edu.rs">Žarko Nedeljković</vendor>
+  </plugin>
 </plugins>
